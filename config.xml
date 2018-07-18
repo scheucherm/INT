@@ -13,11 +13,11 @@
       Testhomepage
   </description>
 
-  <author href="https://build.phonegap.com" email="support@phonegap.com">
+  <author href="https://build.phonegap.com" email="">
       Manu Sch
   </author>
     
-<icon src="/img/logo.png">
+<icon src="img/logo.png"></>
     
     <platform name="ios" />
 <platform name="android" />
