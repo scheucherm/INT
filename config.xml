@@ -7,21 +7,14 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>FFW</name>
+  <name>PhoneGap Example</name>
 
   <description>
-      Testhomepage
+      An example for phonegap build docs.
   </description>
 
   <author href="https://build.phonegap.com" email="support@phonegap.com">
-      Manu Sch
+      Hardeep Shoker
   </author>
-  
-  <icon src="/img/logo.png">
-      
-<platform name="ios" />
-<platform name="android" />
-<platform name="winphone" />
-  
 
 </widget>
