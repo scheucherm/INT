@@ -17,8 +17,6 @@
       Manu Sch
   </author>
     
-<icon src="img/logo.png">
-    
     <platform name="ios" />
 <platform name="android" />
 <platform name="winphone" />
